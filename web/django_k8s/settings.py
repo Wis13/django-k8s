@@ -112,7 +112,7 @@ if DB_IS_AVAIL:
             "sslmode": "require"
          }
 
-
+print(DATABASES)
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
